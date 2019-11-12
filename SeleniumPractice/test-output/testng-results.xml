@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7598" started-at="2019-11-12T15:38:36Z" finished-at="2019-11-12T15:38:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7598" started-at="2019-11-12T15:38:36Z" finished-at="2019-11-12T15:38:43Z">
+      <class name="SimpleSeleniumPractice.ExcelReader">
+        <test-method status="PASS" signature="launchGoogle()[pri:0, instance:SimpleSeleniumPractice.ExcelReader@4883b407]" name="launchGoogle" is-config="true" duration-ms="4885" started-at="2019-11-12T15:38:36Z" finished-at="2019-11-12T15:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:SimpleSeleniumPractice.ExcelReader@4883b407]" name="test1" duration-ms="385" started-at="2019-11-12T15:38:41Z" finished-at="2019-11-12T15:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:SimpleSeleniumPractice.ExcelReader@4883b407]" name="closeWindow" is-config="true" duration-ms="2316" started-at="2019-11-12T15:38:41Z" finished-at="2019-11-12T15:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- SimpleSeleniumPractice.ExcelReader -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
